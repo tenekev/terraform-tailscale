@@ -55,6 +55,8 @@ server-public-insider-sof-docker
 laptop-private-outsider-sof-jd
 ```
 
+![Ейьпзве](scheme2.drawio.png)
+
 ## 💡 Commands used in this project
 ```bash
 terraform init -upgrade
