@@ -16,7 +16,7 @@ This project is meant to configure an existing tailnet with custom DNS, keys and
     * **The location** - personally, I use a 3-letter abbr for different cities as my nodes are all accross the country.
     * **The name** - Docker, adguard, pihole, gitea. Initials for people - John Doe > jd.
 
-## Prerequisites
+## 📃 Prerequisites
 
 1. A Tailscale network with some devices
 2. A Tailscale [API key](https://login.tailscale.com/admin/settings/keys)
@@ -24,14 +24,14 @@ This project is meant to configure an existing tailnet with custom DNS, keys and
 
 ## 📝 Naming components
 
-1. Type
+1. Type\*
     * server
     * laptop
     * phone
-2. Access
+2. Access\*
     * public
     * private
-3. Role
+3. Role\*
     * insider
     * outsider
 4. Location
@@ -42,7 +42,7 @@ This project is meant to configure an existing tailnet with custom DNS, keys and
     * adguard
     * John Doe > jd
 
-⚠️ If you are using other `type`, `access` and `role` tags, you need to define them in the ACL config under `tagOwners`. Otherwise they will not be applied.
+⚠️ \* If you are using other `type`, `access` and `role` tags, you need to define them in the ACL config under `tagOwners`. Otherwise they will not be applied.
 
 ## 🔀 Possible combinations
 
