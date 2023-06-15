@@ -105,3 +105,21 @@ TAILSCALE_ACL = {
     ],
   }
 ```
+
+## 📖 Relevant Documentation
+
+### 🌟 Terraform Docker Provider
+* [Documentation](https://registry.terraform.io/providers/kreuzwerker/docker/latest/docs/resources/container)
+
+### 🌟 Terraform Tailscale Provider
+* [Basic Config](https://registry.terraform.io/providers/davidsbond/tailscale/latest/docs)
+
+
+### 🌟 Tailscale Docs
+* [API Keys](https://tailscale.com/kb/1101/api/)
+* [DNS](https://tailscale.com/kb/1054/dns/)
+* [ACLs](https://tailscale.com/kb/1068/acl-tags/)
+
+
+### 🌟 Misc useful resources
+
