@@ -46,7 +46,7 @@ This project is meant to configure an existing tailnet with custom DNS, keys and
 
 ## 🔀 Possible combinations
 
-All nodes need to have `type`, `access` and `role` defined. By combining them, you can achieve a basic but sufficient in most cases accsess control.
+All nodes require `type`, `access` and `role` defined. By combining them, you can achieve a basic but sufficient in most cases accsess control.
 
 ```
 type-access-role-location-name
